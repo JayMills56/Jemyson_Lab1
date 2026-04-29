@@ -5,6 +5,7 @@
 using namespace std;
 int main()
 {
-    cout<< "Hello from Jemyson! This is my first Git comment." <<endl; endl;
+    cout<< "Hello from Jemyson! This is my first Git comment." <<endl;
+    cout<< "Git makes collaboration easy"<<endl;
     return 0;
 }
